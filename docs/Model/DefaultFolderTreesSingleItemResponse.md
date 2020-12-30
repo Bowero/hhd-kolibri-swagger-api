@@ -1,0 +1,10 @@
+# DefaultFolderTreesSingleItemResponse
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**default_folder_tree** | [**\Swagger\Client\Model\DefaultFolderTree**](DefaultFolderTree.md) |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

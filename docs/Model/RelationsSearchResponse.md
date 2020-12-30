@@ -1,0 +1,13 @@
+# RelationsSearchResponse
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**result_count** | **int** |  | [optional] 
+**results** | [**\Swagger\Client\Model\RelationSnapShot[]**](RelationSnapShot.md) |  | [optional] 
+**statistics** | [**\Swagger\Client\Model\RelationsStatistics**](RelationsStatistics.md) |  | [optional] 
+**total_results** | **int** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
